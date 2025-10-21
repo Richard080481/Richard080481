@@ -50,7 +50,7 @@ reflecting my passion for both **system reliability** and **visual design**.
 
 ---
 
-![Snake animation](https://github.com/Richard080481/Richard080481/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Richard080481/Richard080481/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
