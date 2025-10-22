@@ -28,8 +28,19 @@ reflecting my passion for both **system reliability** and **visual design**.
 
 ### 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,git,linux,vscode,django,cmake,"/>
+  <img src="https://skillicons.dev/icons?i=c"/>
+  <img src="https://skillicons.dev/icons?i=cpp"/>
+  <img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://skillicons.dev/icons?i=java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vulkan/vulkan-original.svg" height="45px" width="45px"/>
+  <img src="https://skillicons.dev/icons?i=html"/>
+  <img src="https://skillicons.dev/icons?i=css"/>
+  <img src="https://skillicons.dev/icons?i=js"/>
+  <img src="https://skillicons.dev/icons?i=react"/>
+  <img src="https://skillicons.dev/icons?i=git"/>
+  <img src="https://skillicons.dev/icons?i=linux"/>
+  <img src="https://skillicons.dev/icons?i=django"/>
+  <img src="https://skillicons.dev/icons?i=cmake"/>
 </p>
 
 ---
