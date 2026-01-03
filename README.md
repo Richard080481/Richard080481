@@ -39,8 +39,7 @@ reflecting my passion for both **system reliability** and **visual design**.
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Richard080481&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard080481&layout=compact&theme=tokyonight" height="150"/>
+  <img src="./graphs/github-stats.svg" width="100%" />
 </p>
 
 ---
