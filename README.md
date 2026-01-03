@@ -18,14 +18,6 @@ reflecting my passion for both **system reliability** and **visual design**.
 
 ---
 
-### 🧠 Current Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-|[WizardChess](https://github.com/Richard080481/WizardChess) | Vulkan-based 3D chess game with Phong shading and realistic rendering. | C++, Vulkan, GLSL |
-|[Random Biome Generator](https://github.com/Richard080481/Random-Biome-Generator) | A project showcasing various noise generation techniques. | JavaScript, WebGL |
-
----
-
 ### 💻 Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c"/>
