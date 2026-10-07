@@ -30,8 +30,6 @@ I love building **high-performance systems** that empower **real-time visual com
 - **CPU Ray Tracer & Rasterizer** - C++ renderer simulating a full GPU pipeline with perspective-correct interpolation and Phong shading.
 - **[User-Level Page Cache](https://github.com/Richard080481/User-Level-Page-Cache)** - Caching mechanism utilizing `dm-cache` to accelerate I/O and reduce kernel overhead.
 
-*(Note: Add your specific repository links to the project titles above)*
-
 ---
 
 ### Tech Stack
