@@ -27,7 +27,6 @@ I love building **high-performance systems** that empower **real-time visual com
 - **[WizardChess](https://github.com/Richard080481/WizardChess)** - A Vulkan-based 3D chess engine built from scratch in C++ and GLSL.
 - **[3D Gaussian Splatting Reconstruction](https://github.com/Richard080481/)** - A 3DGS pipeline using COLMAP and CUDA, optimized for PSNR/SSIM improvements.
 - **[CUDA Particle Simulation](https://github.com/Richard080481/Cuda-Particle-Simulation)** - Parallel N-body simulation leveraging spatial partitioning.
-- **CPU Ray Tracer & Rasterizer** - C++ renderer simulating a full GPU pipeline with perspective-correct interpolation and Phong shading.
 - **[User-Level Page Cache](https://github.com/Richard080481/User-Level-Page-Cache)** - Caching mechanism utilizing `dm-cache` to accelerate I/O and reduce kernel overhead.
 
 ---
